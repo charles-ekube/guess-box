@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    padding: 100px;
+    background: #eee;
+}
+h1{
+    padding: 30px;
+    font-weight: lighter;
+    color: chocolate;
+}
+p{
+    padding: 10px;
+    color: chocolate;
+}
+input{
+    padding: 10px;
+    outline: none;
+    border: 2px solid darksalmon;
+    border-style: double;
+}
+label{
+    color: chocolate;
+}
